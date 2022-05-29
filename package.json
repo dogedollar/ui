@@ -1,7 +1,9 @@
 {
-  "name": "@dogedollar/ui",
+  "name": "@aragon/ui",
   "version": "1.9.3",
-  "repository": "github:dogedollar/ui",
+  "author": "Aragon Association <legal@aragon.org>",
+  "license": "MIT",
+  "repository": "github:aragon/aragon-ui",
   "main": "dist/index.js",
   "module": "dist/esm/index.js",
   "sideEffects": false,
