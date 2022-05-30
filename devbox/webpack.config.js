@@ -111,8 +111,7 @@ module.exports = (env, argv) => {
     return production(env)
   }
   if (argv.mode === 'development') {
-    return argv['$0'].endsWith('webpack-dev-server')
-      ? devserver(env)
-      : development(env)
+    return devserver(env)
+      //: development(env)
   }
 }

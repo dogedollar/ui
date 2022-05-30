@@ -49,7 +49,7 @@ yarn devbox
 ## Structure
 
 ```
-src/
+src/ 
   components/   # The React components.
   hooks/        # React hooks.
   icons/        # Contains the icon components exported by aragonUI.
