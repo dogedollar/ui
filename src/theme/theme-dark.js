@@ -77,7 +77,7 @@ export default {
   controlBorder: '#2c3a58',
   controlBorderPressed: '#65779a',
   controlDisabled: '#3f4e6f',
-  controlSurface: '#C7871E',
+  controlSurface: '#F9FAFC',
   controlUnder: '#F1F3F7',
 
   accent: '#08BEE5',

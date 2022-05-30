@@ -2,7 +2,7 @@ export default {
   _name: 'light',
   _appearance: 'light',
 
-  background: '#C7871E',
+  background: '#F9FAFC',
   border: '#DDE4E9',
   overlay: '#FFFFFF',
   content: '#212B36',
@@ -14,12 +14,12 @@ export default {
   surfaceIcon: '#8FA4B5',
   surfaceUnder: '#F1F3F7',
   surfaceOpened: '#ABBECF',
-  surfaceSelected: '#C7871E',
-  surfaceHighlight: '#C7871E',
-  surfacePressed: '#C7871E',
+  surfaceSelected: '#F9FAFC',
+  surfaceHighlight: '#F9FAFC',
+  surfacePressed: '#F9FAFC',
   surfaceInteractive: '#FFFFFF',
 
-  feedbackSurface: '#C7871E',
+  feedbackSurface: '#F9FAFC',
   feedbackSurfaceContent: '#212B36',
   feedbackSurfaceContentSecondary: '#637381',
 
@@ -48,7 +48,7 @@ export default {
 
   badge: '#EBFAFD',
   badgeContent: '#212B36',
-  badgePressed: '#C7871E',
+  badgePressed: '#F9FAFC',
 
   tagIdentifier: '#EDE6FF',
   tagIdentifierContent: '#4D22DF',
@@ -73,11 +73,11 @@ export default {
   disabledContent: '#637381',
   disabledIcon: '#8FA4B5',
 
-  control: '#C7871E',
+  control: '#F9FAFC',
   controlBorder: '#DDE4E9',
   controlBorderPressed: '#ABBECF',
   controlDisabled: '#F1F3F7',
-  controlSurface: '#C7871E',
+  controlSurface: '#F9FAFC',
   controlUnder: '#DDE4E9',
 
   accent: '#08BEE5',
