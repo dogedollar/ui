@@ -1,6 +1,6 @@
 {
-  "name": "@dogedollar/dogedolla-ui",
-  "version": "1.0.3",
+  "name": "@dogedollar/ui",
+  "version": "1.0.5",
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/esm/index.js",
