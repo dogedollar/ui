@@ -1,7 +1,6 @@
 {
   "name": "dogedolla-ui",
   "version": "1.0.1",
-  "author": "Aragon Association <legal@aragon.org>",
   "license": "MIT",
   "repository": "github:dogedolla/dogedolla-ui",
   "main": "dist/index.js",
