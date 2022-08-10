@@ -8,10 +8,10 @@ export default {
   content: '#F5A623',
   contentSecondary: '#637381',
 
-  surface: '#ffd9b8',
-  surfaceContent: '#ff6a00',
+  surface: '#212B36',
+  surfaceContent: '#F5A623',
   surfaceContentSecondary: '#637381',
-  surfaceIcon: '#000',
+  surfaceIcon: '#637381',
   surfaceUnder: '#f5c26e',
   surfaceOpened: '#212B36',
   surfaceSelected: '#000',
@@ -20,16 +20,16 @@ export default {
   surfaceInteractive: '#212B36',
 
   feedbackSurface: '#F9FAFC',
-  feedbackSurfaceContent: '#f08b43',
+  feedbackSurfaceContent: '#F5A623',
   feedbackSurfaceContentSecondary: '#637381',
 
   warning: '#F5A623',
   warningSurface: '#FFF1DA',
-  warningSurfaceContent: '#C7871E',
+  warningSurfaceContent: '#F5A623',
 
-  info: '#f08b43',
+  info: '#F5A623',
   infoSurface: '#EBFAFD',
-  infoSurfaceContent: '#e07436',
+  infoSurfaceContent: '#F5A623',
 
   help: '#7C80F2',
   helpContent: '#FFFFFF',
@@ -57,15 +57,15 @@ export default {
   tagNewContent: '#2CC68F',
 
   tagIndicator: '#302d2b',
-  tagIndicatorContent: '#f08b43',
+  tagIndicatorContent: '#F5A623',
 
-  tagActivity: '#f08b43',
+  tagActivity: '#F5A623',
   tagActivityContent: '#302d2b',
 
   hint: '#e07436',
   link: '#f58442',
   focus: '#f58442',
-  selected: '#000',
+  selected: '#F5A623',
   selectedContent: '#FFFFFF',
   selectedDisabled: '#C4CDD5',
 
@@ -89,7 +89,7 @@ export default {
   floatingContent: '#FFFFFF',
 
   green: '#9BC75A',
-  yellow: '#e07436',
+  yellow: '#F5A623',
   red: '#f00e0e',
   blue: '#3E7BF6',
   brown: '#876559',
